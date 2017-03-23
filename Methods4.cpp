@@ -7,6 +7,9 @@ Document::Document() {
 	next = NULL;
 }
 /// constructor
+//name
+//date
+//doc
 Document::Document(string nameOrganization,string date,int docNumber) {
 	this->nameOrganization = nameOrganization;
 	this->date = date;

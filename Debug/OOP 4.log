@@ -1,0 +1,4 @@
+﻿  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Main.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  OOP 4.vcxproj -> C:\Users\kombo\Documents\Visual Studio 2015\Projects\OOP 4\Debug\OOP 4.exe
+  OOP 4.vcxproj -> C:\Users\kombo\Documents\Visual Studio 2015\Projects\OOP 4\Debug\OOP 4.pdb (Partial PDB)
